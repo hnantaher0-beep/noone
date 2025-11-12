@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://noone-azure.vercel.app/sitemap.xml
